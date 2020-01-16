@@ -1,3 +1,3 @@
 <?php
 
-echo "githubで編集しました・"
+echo "githubで編集しました・";
